@@ -22,21 +22,21 @@ To get started with the project, follow these steps:
 
 1. Clone the repository: git clone https://github.com/your-username/paytm-clone.git
 
-# Install frontend dependencies
-cd frontend
-npm install
+**Install frontend dependencies**
+-cd frontend
+-npm install
 
-# Install backend dependencies
-cd ..
-cd backend
-npm install
+**Install backend dependencies**
+-cd ..
+-cd backend
+-npm install
 
-# Start the frontend server
-cd frontend
-npm run dev
+**Start the frontend server**
+-cd frontend
+-npm run dev
 
-# Start the backend server
-cd ..
-cd backend
-npm start
+**Start the backend server**
+-cd ..
+-cd backend
+-npm start
 

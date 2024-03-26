@@ -20,7 +20,7 @@ This project is a clone of the Paytm application, developed as part of a learnin
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: git clone https://github.com/your-username/paytm-clone.git
+1. Clone the repository
 
 **Install frontend dependencies**
 - cd frontend

@@ -1,12 +1,14 @@
 # Paytm Clone Project
 
-This project is a basic clone of Paytm, a popular digital payments platform. 
+This project is a clone of the Paytm application, developed as part of a learning experience. It replicates some of the key features and functionalities of the Paytm app using imaginary money.
 
 ## Features
 
 - **User Authentication**: Allow users to sign up and log in
 - **Search**: Allows users to search for friends
 - **Send Money**: Allows users to transfer money
+- **Transaction Rollback**: In case of any transaction failure or error during payment processing, the system ensures automatic rollback of the transaction
+
   
 ## Technologies Used
 

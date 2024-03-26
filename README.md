@@ -6,6 +6,7 @@ This project is a basic clone of Paytm, a popular digital payments platform.
 
 - **User Authentication**: Allow users to sign up and log in
 - **Search**: Allows users to search for friends
+- **Send Money**: Allows users to transfer money
   
 ## Technologies Used
 
